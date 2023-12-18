@@ -29,7 +29,10 @@
 .responsive_nav{
     display: none;
 }
-
+.h1{
+    text-align:center;
+}
+    
 @media screen and (max-width :550px) {
     .main ul{
         display: none;
